@@ -1,3 +1,8 @@
+# Music Player 
+
+Simple music player project using reactjs and tailwindcss.
+Live demo [click here](https://ahop281.github.io/Spotify/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
